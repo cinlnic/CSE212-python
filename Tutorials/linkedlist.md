@@ -266,3 +266,5 @@ For this problem start with the code above to create a linked list containing th
 Then create a function that will get the count of items in the linked list.
 
 [Solution](linkedlist.py)
+
+[Back to Welcome](Intro.md)

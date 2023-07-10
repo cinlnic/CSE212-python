@@ -180,3 +180,5 @@ Create a binary tree and insert the following values:
 After inserting then print the tree and write a function that will return the smallest value of the tree and a function to return the largest value from the tree.
 
 [Solution](binarytree.py)
+
+[Back to Welcome](Intro.md)
