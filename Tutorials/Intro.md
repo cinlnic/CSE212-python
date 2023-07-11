@@ -8,7 +8,7 @@ This tutorial covers some of the common data structures you will find in program
 
 Each tutorial will cover what it is, applications, and basic operations that can be preformed. There will also be an example and a problem to solve.
 
-# Conact
+# Contact
 
 If you have any questions or comments, please contanct:
 
